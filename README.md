@@ -1,9 +1,10 @@
 # Ikhwan Hanif Portfolio
 
+<img width="150" alt="portofolio_website" src="https://github.com/ikhwanhanif/my_portofolio_web/assets/108711453/9540f62e-9819-4c4d-981a-f973bf2e773a">
+<br>
 https://ikhwanhanif.github.io/my_portofolio_web/
 
 Welcome to the repository for my personal portfolio website. This website showcases my skills, projects, and services as a web and app developer. 
-<img width="150" alt="portofolio_website" src="https://github.com/ikhwanhanif/my_portofolio_web/assets/108711453/9540f62e-9819-4c4d-981a-f973bf2e773a">
 
 ## Table of Contents
 
