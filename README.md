@@ -1,6 +1,7 @@
 # My Portfolio
 
-<img width="150" alt="portofolio_website" src="https://github.com/ikhwanhanif/my_portofolio_web/assets/108711453/9540f62e-9819-4c4d-981a-f973bf2e773a">
+<img width="150" alt="portofolio_website1" src="https://github.com/ikhwanhanif/my_portofolio_web/assets/108711453/9540f62e-9819-4c4d-981a-f973bf2e773a">
+<img width="150" alt="portofolio_website2" src="https://github.com/ikhwanhanif/my_portofolio_web/assets/108711453/dbb396b4-c9b8-40e7-9853-3829e3ffc702">
 <br>
 https://ikhwanhanif.github.io/my_portofolio_web/
 
