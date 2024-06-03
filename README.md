@@ -44,7 +44,7 @@ If you have any queries, please feel free to contact me:
 
 - **Phone**  : +62 812-1397-6843
 - **Email**  : ikhwanhanif070402@gmail.com
-- **Address**: Gn.Sindur, Kab. Bogor, Indonesia
+- **Address**  : Gn.Sindur, Kab. Bogor, Indonesia
 
 You can also find me on:
 - [Facebook](https://www.facebook.com/ikhwan.hanif.739)
