@@ -56,7 +56,7 @@ You can also find me on:
 To view the portfolio locally, clone the repository and open `index.html` in your browser.
 
 ```bash```
-git clone https://github.com/ikhwanhanif/my_portfolio_web.git
+git clone https://github.com/ikhwanhanif/my_portofolio_web.git
 cd my_portfolio_web
 open index.html
 
