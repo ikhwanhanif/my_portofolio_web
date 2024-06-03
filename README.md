@@ -3,15 +3,13 @@
 https://ikhwanhanif.github.io/my_portofolio_web/
 
 Welcome to the repository for my personal portfolio website. This website showcases my skills, projects, and services as a web and app developer. 
-
-![Portfolio Screenshot](https://github.com/ikhwanhanif/my_portofolio_web/assets/108711453/9540f62e-9819-4c4d-981a-f973bf2e773a)
+<img width="150" alt="portofolio_website" src="https://github.com/ikhwanhanif/my_portofolio_web/assets/108711453/9540f62e-9819-4c4d-981a-f973bf2e773a">
 
 ## Table of Contents
 
 - [About Me](#about-me)
 - [Skills](#skills)
 - [Services](#services)
-- [Portfolio](#portfolio)
 - [Contact Me](#contact-me)
 - [Getting Started](#getting-started)
 - [Technologies Used](#technologies-used)
@@ -34,36 +32,17 @@ Hi, I'm Muhammad Ikhwan Hanif from Indonesia. I'm 22 years old and I really enjo
 
 I offer the following services:
 
-1. **Web Design**: Innovative and responsive web design services.
-2. **Apps Development**: Advanced mobile applications for iOS and Android.
-3. **SEO**: Effective search engine optimization strategies.
-4. **Content Creation**: Creative and relevant content creation services.
-
-## Portfolio
-
-Here are some of the projects I've worked on:
-
-### Web Design
-- **[Notes](https://github.com/ikhwanhanif/Notes)** - A simple note-taking app available on [Google Play](https://play.google.com/store/apps/details?id=ikhwan.hanif.notes&pcampaignid=web_share).
-
-![Notes Screenshot](img/Notes.png)
-
-### Development
-- **[Wedding Invitation](https://github.com/ikhwanhanif/weding_invitation)**
-![Wedding Invitation Screenshot](img/sc7.png)
-
-- **[Alien Shooter](https://github.com/ikhwanhanif/Alien_Shooter)**
-![Alien Shooter Screenshot](img/AlienShoot.png)
-
-- **[Catur Skuy](https://play.google.com/store/apps/details?id=ikhwan.hanif.caturskuy&pcampaignid=web_share)**
-![Catur Skuy Screenshot](img/CaturSkuy.png)
+1. **Web Design**        : Innovative and responsive web design services.
+2. **Apps Development**  : Advanced mobile applications for iOS and Android.
+3. **SEO**               : Effective search engine optimization strategies.
+4. **Content Creation**  : Creative and relevant content creation services.
 
 ## Contact Me
 
 If you have any queries, please feel free to contact me:
 
-- **Phone**: +62 812-1397-6843
-- **Email**: ikhwanhanif070402@gmail.com
+- **Phone**  : +62 812-1397-6843
+- **Email**  : ikhwanhanif070402@gmail.com
 - **Address**: Gn.Sindur, Kab. Bogor, Indonesia
 
 You can also find me on:
@@ -76,8 +55,8 @@ You can also find me on:
 To view the portfolio locally, clone the repository and open `index.html` in your browser.
 
 ```bash```
-git clone https://github.com/ikhwanhanif/portfolio.git
-cd portfolio
+git clone https://github.com/ikhwanhanif/my_portfolio_web.git
+cd my_portfolio_web
 open index.html
 
 ## Technologies Used
@@ -92,6 +71,7 @@ Owl Carousel
 Lightbox
 WOW.js
 Typed.js
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
