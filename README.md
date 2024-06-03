@@ -1,4 +1,4 @@
-# Ikhwan Hanif Portfolio
+# My Portfolio
 
 <img width="150" alt="portofolio_website" src="https://github.com/ikhwanhanif/my_portofolio_web/assets/108711453/9540f62e-9819-4c4d-981a-f973bf2e773a">
 <br>
