@@ -6,7 +6,7 @@
 <img width="150" alt="portofolio_website3" src="https://github.com/ikhwanhanif/my_portofolio_web/assets/108711453/977c5491-88c7-4bf2-835a-d79ead835fbe">
 <br>
 
-Live Demo: https://ikhwanhanif.my.id
+Live Demo: https://ikhwanhanif.my.id](https://ikhwanhanif.github.io/my_portofolio_web/
 
 Welcome to the repository for my personal portfolio website. This website showcases my skills, projects, and services as a web and app developer. 
 
